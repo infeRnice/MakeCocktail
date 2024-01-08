@@ -21,13 +21,9 @@ By clicking on a cocktail item the application navigates to the cocktail detail 
 By clicking on each section header (Alcoholic Cocktails, Non-Alcoholic Cocktails, Favorite Cocktails), the application navigates to the respective cocktails list.
 
 
-https://github.com/migualador/android-kotlin-mvvm-architecture/assets/18292714/f538829b-ae55-4f3f-8fb3-68681cdbadac
-
-
 
 
 ## Architecture
-This application has been developed following the Android ["Guide to app architecture"](https://developer.android.com/topic/architecture) as a demonstration of how to apply the guidelines to a real project.
 The architecture itself consists of three layers:
 The architecture uses three layers:
 - UI layer.
